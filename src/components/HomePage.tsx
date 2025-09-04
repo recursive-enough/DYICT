@@ -260,8 +260,6 @@ export function HomePage() {
               <div className="text-4xl font-medium text-primary mb-2">50+</div>
               <p className="text-muted-foreground">Industry Partners</p>
             </div>
-          </div>
-        </div>
     </div>
   );
 }
