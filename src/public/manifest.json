@@ -1,0 +1,21 @@
+{
+  "name": "Digital Youth ICT Academy",
+  "short_name": "DYICT Academy",
+  "description": "Building people that build things! A world-class impact driven digital academy dedicated to transforming lives through quality education and industry-relevant training programs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "business", "productivity"],
+  "lang": "en",
+  "scope": "/"
+}
